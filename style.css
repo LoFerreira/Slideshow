@@ -40,7 +40,6 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    cursor: pointer;
 }
 
 .slider--control{
@@ -49,4 +48,5 @@ header{
     background-color: #fff;
     border-radius: 50%;
     overflow: hidden;
+    cursor: pointer;
 }
